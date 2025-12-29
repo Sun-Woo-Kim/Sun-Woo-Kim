@@ -1,19 +1,72 @@
+# Sunwoo Kim
 
-### Hi there 👋
+Founder @SecondEarth-ai
+Building AI-first consumer apps used by creators and travelers globally.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSun-Woo-Kim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+Currently shipping and scaling **AIBookCraft**, **Freelytic**, and **TripPack AI** — all AI-native products with real users and revenue.
 
-<!--
-**Sun-Woo-Kim/Sun-Woo-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📈 **50k+ downloads across products** · **240+ countries** · **4.9★ rating on AIBookCraft**  
+Shipped, monetized, and iterated as a solo founder with strong ecosystem integrations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Products I'm Building
+
+### 🧠 AIBookCraft
+AI-powered book writing & publishing platform that helps creators go from idea → manuscript → published book.
+
+- Focus: boosting creator productivity and creative output  
+- Shipping in short cycles with real user feedback  
+- **Tech:** React Native · AWS Amplify · Amazon Bedrock  
+[Landing](https://landing.aibookcraft.app) · App Store · Play Store
+
+---
+
+### 📊 Freelytic
+AI-assisted analytics and growth insights for creators and makers.
+
+- Helps users understand what’s driving growth  
+- **Integrations:** Mixpanel, Amplitude, (others in progress)
+
+---
+
+### ✈️ TripPack AI
+AI-driven itinerary planner for travelers — auto-curated experiences based on preferences.
+
+- Saves users hours of planning time  
+- Integrates with real-time data and user context
+
+---
+
+## 🤝 Ecosystem & Partnerships
+
+I build products that plug into and extend popular tools used by modern product teams:
+
+**Integrations & Collaborations**
+- **RevenueCat** – subscription & in-app purchase analytics
+- **Mixpanel** – product analytics & funnel insights
+- **OneSignal** – push engagement workflows
+- **Superwall** – paywall / paygating for AI features
+
+Highlighting *real ecosystem touchpoints* investors care about — not just tech stack but **where your products live and grow.**
+
+---
+
+## 🔧 Public Projects (Directly Product-Driven)
+
+These repos are outcomes of real needs from product development, not side experiments:
+
+### 📦 onesignal-mcp-server  
+Automation layer for OneSignal workflows with MCP integration.
+
+### 🔍 llm-cost-optimizer  
+Lightweight tool for comparing and optimizing LLM inference costs in production.
+
+*(Only listed if investors might check for engineering depth — otherwise can be hidden behind a folder.)*
+
+---
+
+## 📬 Let’s Connect
+
+Building in AI? Interested in integration or growth?  
+Twitter · Email
