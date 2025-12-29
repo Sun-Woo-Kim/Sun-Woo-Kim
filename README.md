@@ -1,6 +1,6 @@
 # Sunwoo Kim
 
-Founder @SecondEarth-ai
+Founder @secondearth-ai
 Building AI-first consumer apps used by creators and travelers globally.
 
 Currently shipping and scaling **AIBookCraft**, **Freelytic**, and **TripPack AI** — all AI-native products with real users and revenue.
@@ -18,7 +18,7 @@ AI-powered book writing & publishing platform that helps creators go from idea �
 - Focus: boosting creator productivity and creative output  
 - Shipping in short cycles with real user feedback  
 - **Tech:** React Native · AWS Amplify · Amazon Bedrock  
-[Landing](https://landing.aibookcraft.app) · App Store · Play Store
+[Landing](https://landing.aibookcraft.app)
 
 ---
 
@@ -26,7 +26,6 @@ AI-powered book writing & publishing platform that helps creators go from idea �
 AI-assisted analytics and growth insights for creators and makers.
 
 - Helps users understand what’s driving growth  
-- **Integrations:** Mixpanel, Amplitude, (others in progress)
 
 ---
 
