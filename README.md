@@ -1,71 +1,67 @@
 # Sunwoo Kim
 
-Founder @secondearth-ai
-Building AI-first consumer apps used by creators and travelers globally.
+Founder, SecondEarth AI. I build AI-native consumer apps, ship fast, and scale what users pay for.
 
-Currently shipping and scaling **AIBookCraft**, **Freelytic**, and **TripPack AI** — all AI-native products with real users and revenue.
-
-📈 **50k+ downloads across products** · **240+ countries** · **4.9★ rating on AIBookCraft**  
-Shipped, monetized, and iterated as a solo founder with strong ecosystem integrations.
-
----
-
-## 🚀 Products I'm Building
-
-### 🧠 AIBookCraft
-AI-powered book writing & publishing platform that helps creators go from idea → manuscript → published book.
-
-- Focus: boosting creator productivity and creative output  
-- Shipping in short cycles with real user feedback  
-- **Tech:** React Native · AWS Amplify · Amazon Bedrock  
-[Landing](https://landing.aibookcraft.app)
+- **Subscription traction (Dec 28 2025)**: **$3,156 MRR** · **$37,870 ARR**
+- **Subscription averages (last 90 days)**: **$2,981 MRR** · **$35,770 ARR**
+- **Distribution (2025)**: **151,015 new customers**
+- **App Store signal (App Store Connect, Nov 28–Dec 27 2025)**: AIBookCraft **26K impressions / 856 units / $1.32K proceeds / 1.83K sessions** (iOS)
+- **Operating mode**: **solo founder**; compact execution, rapid iteration
+- **SF**: relocating to **San Francisco in early 2026**
+- **Stack**: React Native · AWS Amplify · Amazon Bedrock · Expo · Sentry
+- **Growth tooling**: RevenueCat · Mixpanel · OneSignal · Superwall
 
 ---
 
-### 📊 Freelytic
-AI-assisted analytics and growth insights for creators and makers.
+## What I’m building (now)
 
-- Helps users understand what’s driving growth  
+### AIBookCraft — AI book writing → publishing
 
----
+Helps creators go from idea → manuscript → publishable output with an AI-first workflow.
 
-### ✈️ TripPack AI
-AI-driven itinerary planner for travelers — auto-curated experiences based on preferences.
+- **Why it wins**: shortens time-to-finished-work (not “chat with an LLM”) and encourages repeat creation.
+- **Proof**: real subscriptions + global usage; strong iOS store signal.
+- **Link**: [landing.aibookcraft.app](https://landing.aibookcraft.app)
 
-- Saves users hours of planning time  
-- Integrates with real-time data and user context
+### Freelytic — AI-assisted growth insights for creators
 
----
+I’m building this on the side while scaling AIBookCraft: turns noisy analytics into clear actions creators can execute.
 
-## 🤝 Ecosystem & Partnerships
+### TripPack AI — personalized itinerary planning
 
-I build products that plug into and extend popular tools used by modern product teams:
-
-**Integrations & Collaborations**
-- **RevenueCat** – subscription & in-app purchase analytics
-- **Mixpanel** – product analytics & funnel insights
-- **OneSignal** – push engagement workflows
-- **Superwall** – paywall / paygating for AI features
-
-Highlighting *real ecosystem touchpoints* investors care about — not just tech stack but **where your products live and grow.**
+Auto-curated travel plans based on preferences, time, and context—designed to save hours per trip.
 
 ---
 
-## 🔧 Public Projects (Directly Product-Driven)
+## Why this can be big
 
-These repos are outcomes of real needs from product development, not side experiments:
-
-### 📦 onesignal-mcp-server  
-Automation layer for OneSignal workflows with MCP integration.
-
-### 🔍 llm-cost-optimizer  
-Lightweight tool for comparing and optimizing LLM inference costs in production.
-
-*(Only listed if investors might check for engineering depth — otherwise can be hidden behind a folder.)*
+- **AI is the workflow**: these products are built around end-to-end workflows where output quality and completion matter.
+- **Compounding advantages**:
+  - **Workflow depth**: the product becomes part of a recurring habit (create → refine → publish).
+  - **Distribution loops**: user outputs are inherently shareable (books, itineraries, recommendations).
+  - **Iteration speed**: instrumented funnels + lifecycle automation to ship growth experiments quickly.
+- **Global-first**: built for international usage from day one.
 
 ---
 
-## 📬 Let’s Connect
+## What I’m looking for
 
-Building in AI? Interested in integration or growth?  
-Twitter · Email
+- **YC / investors**: I’m scaling my strongest wedge into a breakout AI consumer company. I’m moving to SF in early 2026 to build faster with the best network.
+- **Potential collaborators**: people who can move fast on product, growth, and systems.
+- **Partners**: platforms that power creator or travel workflows.
+
+If you want a quick view, tell me what you want first (traction, revenue, product loop, growth channels) and I’ll share the most relevant numbers and screenshots.
+
+---
+
+## Open-source (product-driven)
+
+- **onesignal-mcp-server**: automation layer for OneSignal workflows with MCP integration
+- **AmplifyQuery**: AWS Amplify (v6+) + React Query helpers I built for shipping RN apps faster — [Sun-Woo-Kim/AmplifyQuery](https://github.com/Sun-Woo-Kim/AmplifyQuery)
+
+---
+
+## Contact
+
+- **Email**: sunwoo.kim@secondearth.ai
+- **X / Twitter**: [@sunwoo_builds](https://x.com/sunwoo_builds)
